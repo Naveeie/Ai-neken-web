@@ -1,0 +1,10 @@
+[
+    {
+        "possibleCommands": ["go to account", "open my event"],
+        "page": "/events"
+    },
+    {
+        "possibleCommands": ["logout"],
+        "page": "/"
+    }
+]
